@@ -1,0 +1,11 @@
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/Vinny/Documents/AMIS3610/hello-world-dotnet/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
